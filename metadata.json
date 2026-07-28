@@ -1,0 +1,6 @@
+{
+  "name": "Tetris",
+  "description": "Een simpele, elegante en modern vormgegeven Tetris-game gebouwd met React, Framer Motion en Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
